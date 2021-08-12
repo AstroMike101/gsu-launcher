@@ -3,7 +3,7 @@
 GSU-Launcher is a chrome web extension that allows GSU students to efficiently visit the University's most commonly used websites.
 
 
-<img src = "images/img640.png" width = '800' height = '600'></img>
+<img src = "images/img640.png" width = '600' height = '400'></img>
 
 ## Installation
 
